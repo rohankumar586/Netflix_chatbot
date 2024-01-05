@@ -1,18 +1,30 @@
 # Netflix Chatbot - INSY 660 Project
 
 ## Introduction
-The aim of this project is develop a bot to enhance user experience on Netflix, providing personalized recommendations, searching for shows, and answering queries about Netflix content.
+Welcome to the Netflix Chatbot, an innovative project for INSY 660. Our goal is to develop a chatbot that enhances the user experience on Netflix by providing personalized recommendations, searching for shows, and addressing queries about Netflix content.
 
 ## Project Description
-Objective: To create a user-friendly chatbot that can interact with Netflix users, offering them a more engaging and efficient way to discover content.
-Features: Personalized movie and show recommendations, quick search for titles, and responses to various user inquiries about Netflix offerings.
+**Objective:** Create a chatbot to engage Netflix users, making content discovery more efficient and enjoyable.
+**Features:**
+- Personalized movie and show recommendations.
+- Quick search for titles.
+- Answers to a wide range of user inquiries about Netflix's offerings.
 
-## Results and Discussion
-User Interaction: Demonstrates an intuitive user interface, making it easy for users to navigate and interact with Netflix's vast content library.
+## User Scenarios
+The chatbot addresses various user scenarios, including:
+- Searching for specific titles or genres.
+- Handling account and payment queries.
+- Providing assistance with technical issues related to Netflix usage.
 
 ## Installation and Usage
-Requirements: Python environment, Jupyter Notebook, and required Python libraries
-Running the Bot: Download all the all the files in one folders and then click on run all in python
+**Requirements:**
+- Python environment.
+- Jupyter Notebook.
+- Required Python libraries.
+
+**Running the Bot:**
+- Download all files into one folder.
+- Run the Jupyter Notebook file and execute all cells.
 
 ## Acknowledgments
-Acknowledgments: This project was a part of a course at McGill University
+This project is a part of a course at McGill University. Special thanks to the course instructors and fellow students for their support and guidance.
